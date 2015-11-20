@@ -29,11 +29,6 @@ return [
         'errorHandler' => [
             'errorAction' => 'site/error',
         ],
-        'assetManager' => [
-            'class' => 'yii\web\AssetManager',
-            'basePath'=>'@static/app/assets',
-            'baseUrl'=>'@web/app/assets'
-        ],
         /*
         'urlManager' => [
             'enablePrettyUrl' => true,
