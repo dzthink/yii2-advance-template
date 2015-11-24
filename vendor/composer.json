@@ -1,5 +1,7 @@
 {
     "require": {
-        "codeception/codeception": "*"
+        "codeception/codeception": "*",
+        "codeception/specify":"*",
+        "codeception/verify":"*"
     }
 }
